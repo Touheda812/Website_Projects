@@ -1,0 +1,30 @@
+/*************************TAG SELECTORS*******************************/
+h1{
+    color: red;
+    font-size: 200px;
+}
+
+img:hover{
+    background-color: gold;
+}
+
+/*******************************CLASS SELECTORS***************************/
+
+/*Create class on the image to do this*/
+.bacon{
+    background-color: green;
+}
+.broccoli{
+    background-color: red;
+}
+
+/*******************************ID SELECTORS*****************************/
+
+/*create id for headings to edit the color of each headings differently*/
+
+#heading{
+    color: blue;
+}
+.circular{
+    border-radius: 100%;
+}
