@@ -63,3 +63,10 @@ p{
 .feature-box{
     text-align: center;
 }
+.icon{
+    color: #ef8172;
+    margin: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
